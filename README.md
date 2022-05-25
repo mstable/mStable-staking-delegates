@@ -20,7 +20,7 @@ This repo is for adding/adjust and removing profiles of mStable Staking Delegate
 3. Optionally: Add your profile picture in the folder `/src/pfp/`.
 
 - It has to be a .jpg file
-- It has to be named `<address>.jpg`
+- It has to be named `<address>.jpg` (case sensitive, make sure it matches the address exactly)
 - It has to be a square image, max size of 256x256
 
 4. Commit your changes and push them to the repo.
@@ -46,7 +46,7 @@ This repo is for adding/adjust and removing profiles of mStable Staking Delegate
 3. Optionally: Add a new profile picture in the folder `/src/pfp/`.
 
 - It has to be a .jpg file
-- It has to be named `<address>.jpg`
+- It has to be named `<address>.jpg` (case sensitive, make sure it matches the address exactly)
 - It has to be a square image, max size of 256x256
 - IMPORTANT: If you want to upload a new profile picture, you have to delete `avatarURI`.
 
