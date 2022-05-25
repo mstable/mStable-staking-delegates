@@ -1,0 +1,149 @@
+{
+  "name": "mStable Delegatees",
+  "timestamp": "2022-05-25T17:25:30.533Z",
+  "logoURI": "ipfs://QmV9ATGJVjXKRPGRoVXYUHpQ8PVSeYDRmmtD72UK51DjFg",
+  "keywords": [
+    "mstable",
+    "official"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0
+  },
+  "delegatees": [
+    {
+      "chainId": 1,
+      "address": "0xB2d6Cc7098C3AecA089b6580A44b34559cd40971",
+      "ensName": "soulsby.eth",
+      "bio": "Operations @ mStable.",
+      "displayName": "soulsby",
+      "profileURI": "https://twitter.com/camsoulsby",
+      "avatarURI": "ipfs://QmUU8iujNeekCTq1Aq2pew5qobB7uZdpRGEq9HTrqKopyQ"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9c83f07335B69F7b24b97d2c6E59102E89C2497",
+      "bio": "mStable co-founder",
+      "displayName": "jamessimpson",
+      "profileURI": "https://twitter.com/jronsim",
+      "avatarURI": "ipfs://QmWckEYR3Ucv9r4pQTaXGQULg8VRXZ45HjaAsidtPUJRDV"
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5e1569772b2d425Ac9469d39F17341C01e1CF4c",
+      "ensName": "ston.eth",
+      "bio": "GrantsDAO Catherder, Metanaut",
+      "displayName": "stonp89",
+      "profileURI": "https://twitter.com/ethhead3",
+      "avatarURI": "ipfs://QmU4Ka15fbj9NfxYtKhpqbu3zBMuYrAKqTHtNZu7pwTTUL"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ee8670d2b936985D5fb1EE968810c155D3bB9cA",
+      "ensName": "jwpe.eth",
+      "bio": "mStable Janitor, illiquid jpeg enthusiast, Metanaut. Pro servitio Vitae.",
+      "profileURI": "https://twitter.com/jwpeddington",
+      "avatarURI": "ipfs://QmbThKZwiUYLPeeaLKUD7ySrJJmAGDLy1xJkGKxuBNCXJN"
+    },
+    {
+      "chainId": 1,
+      "address": "0xD693D33F76b49F7eBAfFa6fc9923dE93C78F865F",
+      "bio": "Community & Discord manager @ mStable. Focused on making our community as inviting, informative, and helpful as possible + working on different initiatives to take care of our core community and metanauts",
+      "displayName": "0xPenguin0x",
+      "profileURI": "https://twitter.com/0xpenguin0x",
+      "avatarURI": "ipfs://QmZobwEB24CgjC1bmu8rZ13jXfgXg7Wmsrvo3GSsSd5hv5"
+    },
+    {
+      "chainId": 1,
+      "address": "0x29Faeb62f4e9E1456c2fEED5c6f27B13Fae91Dae",
+      "ensName": "owenzhang.eth",
+      "bio": "Metanauts & Crypto investor & Meme designer",
+      "displayName": "Owen",
+      "profileURI": "https://twitter.com/songtaozhang3",
+      "avatarURI": "ipfs://QmQLmWmPRUi6NFffF3Z4xWfEFXTzdbaZAg4dDKVxwMRubi"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E4489998a3eAEBa52B3623268E47f62065aC09B",
+      "bio": "Metanaut, mStable maxi/moonboi",
+      "displayName": "Josef",
+      "profileURI": "https://twitter.com/aokijosef"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfDD94B56bAeb5622380Dc9DE38E71017C59751C8",
+      "bio": "Moderator @ mstable, early adapter @ mstable, here for the tech",
+      "displayName": "rubz",
+      "profileURI": "https://twitter.com/rlacumba",
+      "avatarURI": "ipfs://QmRDf7atvxLAv6UWxvGLs5jPpHkGh5hCSdv21nHgbhnRco"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc47711ae145d09f9237f5e5880f2a5aaef04f1cb",
+      "bio": "Metanaut from the extreme south of France, always interested into discovering opportunities.",
+      "displayName": "Southern Duke",
+      "profileURI": "https://twitter.com/Eruktanov",
+      "avatarURI": "ipfs://QmWXSHw7RB8ENTkqm5T5syeD6w5Ls68XXMeVZufY6h3fEV"
+    },
+    {
+      "chainId": 1,
+      "address": "0x02bdacb2c3baa8a12d3957f3bd8637d6d2b35f10",
+      "bio": "Proud Metanaut and co-founder/CEO at Gelt — building the first DeFi savings account for everyday users powered by mStable. Y Combinator Alumni with 10+ years of experience building and growing centralized and decentralized products.",
+      "displayName": "Jeremiah Smith | Gelt.finance",
+      "profileURI": "https://twitter.com/itsjeremiahs",
+      "avatarURI": "ipfs://QmUEBRpuG216MMr4KLwcaUdSu5UPBKuiDsWjuQoRdxTaDM"
+    },
+    {
+      "chainId": 1,
+      "address": "0x908DB31Ce01DC42c8B712f9156E969bc65023119",
+      "ensName": "mzeronine.eth",
+      "bio": "Herding Cats @ the mStableDAO. Will always vote as the channeled opinion of all the signers within the DAO. This has historically been towards maximizing treasury longevity, capital efficiency & decentralization of the mStable ecosystem. Cat-enthusiast",
+      "displayName": "mZeroNine",
+      "profileURI": "https://twitter.com/mZero2nine",
+      "avatarURI": "ipfs://QmZUBzjftfj8TjLYRNViBE9guv2rfRUEkHFipjqjLxb9zx"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E0F8D06E68Af898E584C4054474124B092277Dc",
+      "bio": "Growth and partnerships @ mStable. Metanaut from Singapore! Started the forum, inspired the Metanauts program and launched the grantsDAO! Now helping integrate mStable all across DeFi.",
+      "displayName": "derc",
+      "profileURI": "https://twitter.com/0xderc",
+      "avatarURI": "ipfs://QmUMYA9M95tYBkvwbngG3W4td1nvkugh9rmWbMUd7JNgWp"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0945b923d4922Bf30528931Ed92f1c20CEac9541",
+      "bio": "Lead protocol developer @ mStable. Taking care of business since 2019",
+      "displayName": "alsco77",
+      "profileURI": "https://twitter.com/alsco77",
+      "avatarURI": "ipfs://QmdMVJheRWgMzLUrs3yZ4QQmH2HsFUjWtUuS8apkfzW6gg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xE76Be9C1e10910d6Bc6b63D8031729747910c2f6",
+      "ensName": "dimsome.eth",
+      "bio": "Product Manager @mStable. Metanaut since many moons ago - from the community, for the community",
+      "displayName": "dimsome",
+      "profileURI": "https://twitter.com/dimsomedim"
+    },
+    {
+      "chainId": 1,
+      "address": "0x46fc1aB5582055C13B259A458E22eBa591e5D8eb",
+      "ensName": "ethergreentree.eth",
+      "bio": "Metanaut, fpools fanboy, came here for the yields but stayed for the vision",
+      "displayName": "lonetree",
+      "profileURI": "https://twitter.com/ethergreentree",
+      "avatarURI": "ipfs://QmXRmBGKs2f7VJRKexyt79XXKLCmTDwrGsQfD78wJxt7XB"
+    },
+    {
+      "chainId": 1,
+      "address": "0x41374B389772D5aEd41240a57f5FFB087C6bfA93",
+      "ensName": "jeshli.eth",
+      "bio": "PhD ML: Recommendation Engines, Network Regression; Current Focus: AMMs, Tokenomics, IC Web Apps-ETH Security, Reinforcement Learning",
+      "displayName": "Jeshli",
+      "profileURI": "https://twitter.com/jeshli",
+      "avatarURI": "ipfs://QmTtKKyFkytwbNvbjqqMbTvUebc6u5d1ZqBhe7UsfWRmHB"
+    }
+  ]
+}
