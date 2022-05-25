@@ -10,10 +10,10 @@ This repo is for adding/adjust and removing profiles of mStable Staking Delegate
 ```
 {
     "chainId": 1, // Has to be 1 = Ethereum, required
-    "address": "0x0E4489998a3eAEBa52B3623268E47f62065aC09B", // Your ethereum address, required
-    "bio": "Metanaut, mStable maxi/moonboi", // Short description of your profile, required
-    "displayName": "Josef", // Name that is going to appear in the UI, required
-    "profileURI": "https://twitter.com/aokijosef" // Your profile URI, can be twitter or something else, optional
+    "address": "0x0000", // Your ethereum address, required
+    "bio": "", // Short description of your profile, required
+    "displayName": "", // Name that is going to appear in the UI, required
+    "profileURI": "" // Your profile URI, can be twitter or something else, optional
 },
 ```
 
