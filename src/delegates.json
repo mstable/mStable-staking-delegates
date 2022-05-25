@@ -1,6 +1,6 @@
 {
   "name": "mStable Delegatees",
-  "timestamp": "2022-05-25T17:25:30.533Z",
+  "timestamp": "2022-05-25T17:41:24.227Z",
   "logoURI": "ipfs://QmV9ATGJVjXKRPGRoVXYUHpQ8PVSeYDRmmtD72UK51DjFg",
   "keywords": [
     "mstable",
@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "delegatees": [
@@ -125,7 +125,8 @@
       "ensName": "dimsome.eth",
       "bio": "Product Manager @mStable. Metanaut since many moons ago - from the community, for the community",
       "displayName": "dimsome",
-      "profileURI": "https://twitter.com/dimsomedim"
+      "profileURI": "https://twitter.com/dimsomedim",
+      "avatarURI": "ipfs://QmPzgdDsAeZMGALppEfDZgNp25bBKrVTnAH6a9ubgKLdRW"
     },
     {
       "chainId": 1,
