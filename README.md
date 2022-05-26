@@ -2,7 +2,9 @@
 
 This repo is for adding/adjust and removing profiles of mStable Staking Delegates.
 
-### Setup 
+### Setup
+
+***Skip if you just want to add/edit your profile***
 You need to have a Infura IPFS project. Copy and rename `.env.template` to `.env` and fill in the IPFS `PROJECT_ID` and `PROJECT_SECRET`.
 
 ### How to add a new profile
