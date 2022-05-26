@@ -2,6 +2,9 @@
 
 This repo is for adding/adjust and removing profiles of mStable Staking Delegates.
 
+### Setup 
+You need to have a Infura IPFS project. Copy and rename `.env.template` to `.env` and fill in the IPFS `PROJECT_ID` and `PROJECT_SECRET`.
+
 ### How to add a new profile
 
 1. Fork this repo
@@ -60,6 +63,4 @@ The pull request will be reviewed by the mStable team and if it's approved, it w
 
 `yarn run exec`
 
-This will upload any profile pictures to IPFS, update the `delegates.json` file, and upload it to IPFS as well. The new CIDv0 will be added to `src/uploads.json` automatically. From there it will needs to be updated in the [mStable-apps repo](https://github.com/mstable/mStable-apps).
-
-Note: To run this, you need to have a Infura IPFS project. Copy and rename `.env.template` to `.env` and fill in the IPFS `PROJECT_ID` and `PROJECT_SECRET`.
+This will upload any profile pictures to IPFS, update the `delegates.json` file, and upload it to IPFS as well. The new CIDv0 will be added to `src/uploads.json` automatically. From there it will need to be updated in the [mStable-apps repo](https://github.com/mstable/mStable-apps).
